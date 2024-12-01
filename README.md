@@ -67,7 +67,7 @@ The primary goal of this project was to develop a comprehensive wind turbine bla
 
 ### 3.3 Importing the geometry into Ansys Fluent and Setting the Domain
 
-Dim Inlet             |  Dim Periodic               |  Sec View
+Dim Periodic             |  Dim Inlet               |  Sec View
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](images/Dim2.PNG)  |  ![](images/Dim1.PNG)  |  ![](images/Domain_Sec.PNG)
 
